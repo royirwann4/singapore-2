@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://royirwann4.github.io/singapore-2/sitemap.xml
